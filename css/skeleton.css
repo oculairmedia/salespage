@@ -602,7 +602,7 @@ there.
 }
 
 .foot {
-    background-image: url(https://raw.githubusercontent.com/oculairmedia/salespage/gh-pages/images/viw1.jpg);
+    background-image:url("https://raw.githubusercontent.com/oculairmedia/salespage/gh-pages/images/viw1.jpg");
     background-position: center;
     color:white;
     padding:8rem 0 1rem;
