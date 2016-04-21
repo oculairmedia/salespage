@@ -575,7 +575,7 @@ there.
 }
 
 .whatis {
-    background-image:url("/images/viw1.jpg");
+    background-image:url("https://raw.githubusercontent.com/oculairmedia/salespage/gh-pages/images/viw1.jpg");
     background-size:cover;
     color:#FFFFFF;
     padding-bottom:25rem;
