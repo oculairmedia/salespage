@@ -1006,13 +1006,18 @@ color: #c0bebb
 }
 
 
-
-
-
 .monitor {
     margin-bottom: 5rem;
 }
 
 .productsbuton {
     margin-bottom: 9rem;
+}
+
+.headimage a:hover {
+    color:#33c2f0;
+    border-bottom: 1px;
+    border-color: #c8ced1;
+    border-bottom-style:none;
+    height: 80px;
 }
